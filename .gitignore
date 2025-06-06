@@ -1,0 +1,5 @@
+# clasp-specific files
+.clasp.json
+.clasprc.json
+
+*.log
